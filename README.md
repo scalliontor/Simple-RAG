@@ -8,4 +8,4 @@ I'm learning to build a RAG project for the first time using:
 
 Here are my note on Notion: https://www.notion.so/M01W04-Project-1-2-T-o-v-tri-n-khai-m-t-chatbot-cho-m-t-ch-c-nh-n-220838f5c2818109b255c4fad3cdc946?source=copy_link
 
-All inspire by AIO Viet Nam : https://www.facebook.com/aivietnam.edu.vn
+All of this code is inspired by AIO Viet Nam class : https://www.facebook.com/aivietnam.edu.vn
