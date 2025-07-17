@@ -9,4 +9,3 @@ I'm learning to build a RAG project for the first time using:
 - Enable chat-based querying through a RAG pipeline
 
 
-Here are my note on Notion: https://www.notion.so/M01W04-Project-1-2-RAG-220838f5c2818109b255c4fad3cdc946
