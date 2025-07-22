@@ -1,6 +1,6 @@
 #RAG
 
-I'm learning to build a RAG project for the first time using:
+simple RAG with basics use of uploading pdf and extract information in it
 - Upload a PDF document
 - Split the content into fixed length chunks
 - Generate embeddings using bkai-foundation-models/vietnamese-bi-encoder (for embedding) 
