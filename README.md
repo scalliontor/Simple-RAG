@@ -11,14 +11,7 @@
 
 # Simple Agentic RAG System
 
-
-## **Same Model Configuration as Original**
-- **LLM**: `lmsys/vicuna-7b-v1.5` with 4-bit NF4 quantization
-- **Embeddings**: `bkai-foundation-models/vietnamese-bi-encoder`
-- **Text Splitter**: SemanticChunker with Vietnamese embeddings
-- **Vector Database**: Chroma
-
-## **Added Agentic Features (Simplified)**
+## **Added Agentic Features**
 - **Multiple Tools**: Document search, web search, calculator, summarizer
 - **Simple Tool Selection**: Basic logic to choose appropriate tools
 - **Interactive Interface**: Chat functionality
